@@ -1,9 +1,10 @@
 <!-- Center the entire content -->
 <p align="center">
-  <img alt="Code" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrm6fd-mubYzdUlREaGL1wwiCL0ypYMAJKL07UF1eS6X4UHFACu-4oTC5RHRKTCWQKlXPIO6hJZOTRyuAXr4LnYMmk2v19VaDlxnMwVQufskh1b0QekMtDxNLg5DJp_RhsBh8ZKnMDLvtzkLndqBI04Y8i32AH_HOW03n0OIEt-npfxjeX48t1f7A/s1600/Header%20-%20Android%20-%20Power%20your%20Wear%20OS%20fitness%20app%20with%20the%20latest%20version%20of%20Health%20Services.png">
-  <h1>Hi 👋, I'm Samir Kabir Tanjim</h1>
-  <h3>A passionate frontend developer from Bangladesh</h3>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLrm6fd-mubYzdUlREaGL1wwiCL0ypYMAJKL07UF1eS6X4UHFACu-4oTC5RHRKTCWQKlXPIO6hJZOTRyuAXr4LnYMmk2v19VaDlxnMwVQufskh1b0QekMtDxNLg5DJp_RhsBh8ZKnMDLvtzkLndqBI04Y8i32AH_HOW03n0OIEt-npfxjeX48t1f7A/s1600/Header%20-%20Android%20-%20Power%20your%20Wear%20OS%20fitness%20app%20with%20the%20latest%20version%20of%20Health%20Services.png" style="width: 100%; max-width: 1000px; height: auto;" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Samir Kabir Tanjim</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samirkabirtanjim&label=Profile%20views&color=0e75b6&style=flat" alt="samirkabirtanjim" /> </p>
 
