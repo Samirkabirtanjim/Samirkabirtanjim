@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://twitter.com/tanjim____" target="blank"><img src="https://img.shields.io/twitter/follow/tanjim____?logo=twitter&style=for-the-badge" alt="tanjim____" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Android**
 
